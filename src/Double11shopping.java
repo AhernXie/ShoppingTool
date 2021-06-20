@@ -44,6 +44,5 @@ public class Double11shopping {
         System.out.print("输入须达到的满减金额:");
         int w=sc.nextInt();
         double11advance(items,n,w);
-
     }
 }
